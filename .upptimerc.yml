@@ -1,31 +1,39 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: envesko
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Envesko Launchpad - HTTPS
+    url: https://envesko.com
+  - name: Envesko Cloud - HTTPS
+    url: https://envesko.cloud
+  - name: Envesko Base - HTTPS
+    url: https://base.envesko.com
+  - name: 201 (Shared - Web) - HTTPS
+    url: $URL_201
+  - name: 500 (Platform) - HTTPS
+    url: $URL_500
+  - name: srv2 (External) - HTTPS
+    url: $URL_SRV2
+  - name: 600 (Shared - Game) - API
+    url: $URL_600
+    expectedStatusCodes:
+      - 401
+  - name: 602 (Managed - Game) - API
+    url: $URL_602
+    expectedStatusCodes:
+      - 401
+  - name: 905 (Managed) - API
+    url: $URL_905
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.envesko.com
+  logoUrl: /assets/logo.png
+  name: Envesko
+  introTitle: "**Status** for Envesko's Platform is monitored using this platform."
+  introMessage: Incidents are tracked automatically by our system. If you encounter a problem with the platform, please (Contact Us)[mailto:contact@envesko.com].
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  assignees:
+    - Brandin
+  theme: dark

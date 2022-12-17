@@ -27,10 +27,10 @@ sites:
 
 status-website:
   cname: status.envesko.com
-  logoUrl: https://github.com/$OWNER/$REPO/blob/master/assets/logo.png
+  logoUrl: https://github.com/envesko/status/blob/master/assets/logo.png
   name: Envesko
   introTitle: "**Envesko** Status Monitor"
-  introMessage: Incidents are tracked automatically by our system. If you encounter a problem with the platform, please [Open an Incident Report](https://github.com/$OWNER/$REPO/issues/new/choose) or [Open a Ticket](https://base.envesko.com/contact.php).
+  introMessage: Incidents are tracked automatically by our system. If you encounter a problem with the platform, please [Open an Incident Report](https://github.com/envesko/status/issues/new/choose) or [Open a Ticket](https://base.envesko.com/contact.php).
   navbar:
     - title: Status
       href: /

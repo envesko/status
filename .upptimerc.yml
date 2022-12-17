@@ -22,18 +22,24 @@ sites:
     url: $URL_602
     expectedStatusCodes:
       - 401
-  - name: 905 (Managed) - API
+  - name: 905 (Managed - Web) - HTTPS
     url: $URL_905
 
 status-website:
   cname: status.envesko.com
-  logoUrl: /assets/logo.png
+  logoUrl: https://github.com/$OWNER/$REPO/blob/master/assets/logo.png
   name: Envesko
-  introTitle: "**Status** for Envesko's Platform is monitored using this platform."
-  introMessage: Incidents are tracked automatically by our system. If you encounter a problem with the platform, please (Contact Us)[mailto:contact@envesko.com].
+  introTitle: "**Envesko** Status Monitor"
+  introMessage: Incidents are tracked automatically by our system. If you encounter a problem with the platform, please [Open an Incident Report](https://github.com/$OWNER/$REPO/issues/new/choose) or [Open a Ticket](https://base.envesko.com/contact.php).
   navbar:
     - title: Status
       href: /
+    - title: Open Incident
+      href: https://github.com/$OWNER/$REPO/issues/new/choose
+    - title: Open Ticket
+      href: https://base.envesko.com/contact.php
+    - title: Discord
+      href: https://discord.gg/7zD8qBspuy
   assignees:
     - Brandin
-  theme: dark
+  theme: night

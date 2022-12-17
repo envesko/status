@@ -4,18 +4,20 @@
     "url": "https://envesko.com",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.com.ico",
     "slug": "envesko-launchpad-https",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 276,
     "timeDay": 276,
     "timeWeek": 276,
     "timeMonth": 276,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 1
+    }
   },
   {
     "name": "Envesko Cloud - HTTPS",
@@ -40,18 +42,20 @@
     "url": "https://base.envesko.com",
     "icon": "https://icons.duckduckgo.com/ip3/base.envesko.com.ico",
     "slug": "envesko-base-https",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1411,
     "timeDay": 1411,
     "timeWeek": 1411,
     "timeMonth": 1411,
     "timeYear": 1411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 1
+    }
   },
   {
     "name": "201 (Shared - Web) - HTTPS",
@@ -94,18 +98,20 @@
     "url": "$URL_SRV2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv2-external-https",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 258,
     "timeDay": 258,
     "timeWeek": 258,
     "timeMonth": 258,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 0
+    }
   },
   {
     "name": "600 (Shared - Game) - API",

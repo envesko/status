@@ -8,6 +8,7 @@ sites:
     url: https://envesko.cloud
   - name: Envesko Base - HTTPS
     url: https://base.envesko.com
+    __dangerous__body_down: "Critical Error"
   - name: 201 (Shared - Web) - HTTPS
     url: $URL_201
   - name: 500 (Platform) - HTTPS
@@ -27,10 +28,11 @@ sites:
 
 status-website:
   cname: status.envesko.com
-  logoUrl: https://github.com/envesko/status/blob/master/assets/logo.png
   name: Envesko
   introTitle: "**Envesko** Status Monitor"
   introMessage: Incidents are tracked automatically by our system. If you encounter a problem with the platform, please [Open an Incident Report](https://github.com/envesko/status/issues/new/choose) or [Open a Ticket](https://base.envesko.com/contact.php).
+  logoUrl: https://github.com/envesko/status/blob/master/assets/logo.png
+  favicon: https://github.com/envesko/status/blob/master/assets/favicon.png
   navbar:
     - title: Status
       href: /
@@ -43,3 +45,5 @@ status-website:
   assignees:
     - Brandin
   theme: night
+  i18n:
+    footer: Powered by [Envesko](https://envesko.com)

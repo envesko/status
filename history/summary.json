@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 264,
-    "timeWeek": 289,
+    "timeWeek": 290,
     "timeMonth": 289,
     "timeYear": 289,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 400,
     "timeDay": 286,
-    "timeWeek": 400,
+    "timeWeek": 399,
     "timeMonth": 400,
     "timeYear": 400,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1580,
     "timeDay": 1671,
-    "timeWeek": 1580,
+    "timeWeek": 1595,
     "timeMonth": 1580,
     "timeYear": 1580,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 185,
-    "timeWeek": 275,
+    "timeWeek": 276,
     "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 410,
     "timeDay": 352,
-    "timeWeek": 410,
+    "timeWeek": 403,
     "timeMonth": 410,
     "timeYear": 410,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 292,
     "timeDay": 561,
-    "timeWeek": 292,
+    "timeWeek": 296,
     "timeMonth": 292,
     "timeYear": 292,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 285,
     "timeDay": 235,
-    "timeWeek": 285,
+    "timeWeek": 287,
     "timeMonth": 285,
     "timeYear": 285,
     "dailyMinutesDown": {}
@@ -130,19 +130,19 @@
     "url": "$URL_602",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "602-managed-game-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 175,
-    "timeWeek": 246,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 237,
+    "timeDay": 161,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2022-12-24": 0
+      "2022-12-24": 21
     }
   },
   {

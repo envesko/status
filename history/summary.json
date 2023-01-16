@@ -80,19 +80,19 @@
     "url": "$URL_500",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "500-platform-https",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 295,
-    "timeWeek": 443,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 437,
+    "timeDay": 358,
+    "timeWeek": 441,
+    "timeMonth": 437,
+    "timeYear": 437,
     "dailyMinutesDown": {
-      "2023-01-16": 0
+      "2023-01-16": 12
     }
   },
   {

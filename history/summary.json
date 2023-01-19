@@ -24,19 +24,19 @@
     "url": "https://envesko.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "envesko-cloud-https",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 268,
-    "timeWeek": 366,
-    "timeMonth": 406,
-    "timeYear": 398,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 394,
+    "timeDay": 264,
+    "timeWeek": 353,
+    "timeMonth": 401,
+    "timeYear": 394,
     "dailyMinutesDown": {
-      "2023-01-19": 0
+      "2023-01-19": 9
     }
   },
   {

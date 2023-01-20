@@ -4,9 +4,9 @@
     "url": "https://envesko.com",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.com.ico",
     "slug": "envesko-launchpad-https",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 305,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2023-01-20": 0,
       "2023-01-15": 2
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "envesko-cloud-https",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "42.22%",
-    "uptimeWeek": "91.75%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "98.29%",
+    "uptime": "97.44%",
+    "uptimeDay": "12.61%",
+    "uptimeWeek": "87.52%",
+    "uptimeMonth": "97.13%",
+    "uptimeYear": "97.44%",
     "time": 395,
     "timeDay": 336,
     "timeWeek": 371,
     "timeMonth": 402,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2023-01-20": 40,
+      "2023-01-20": 466,
       "2023-01-19": 792
     }
   },

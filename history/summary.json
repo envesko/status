@@ -4,10 +4,10 @@
     "url": "https://envesko.com",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.com.ico",
     "slug": "envesko-launchpad-https",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
@@ -15,7 +15,9 @@
     "timeWeek": 259,
     "timeMonth": 284,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-24": 1
+    }
   },
   {
     "name": "Envesko Cloud - HTTPS",
@@ -153,7 +155,7 @@
     "slug": "905-managed-web-https",
     "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "73.28%",
+    "uptimeDay": "74.82%",
     "uptimeWeek": "81.70%",
     "uptimeMonth": "95.79%",
     "uptimeYear": "98.67%",

@@ -4,10 +4,10 @@
     "url": "https://envesko.com",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.com.ico",
     "slug": "envesko-launchpad-https",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
@@ -15,7 +15,9 @@
     "timeWeek": 305,
     "timeMonth": 278,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-13": 1
+    }
   },
   {
     "name": "Envesko Cloud - HTTPS",
@@ -40,10 +42,10 @@
     "url": "https://base.envesko.com",
     "icon": "https://icons.duckduckgo.com/ip3/base.envesko.com.ico",
     "slug": "envesko-base-https",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1563,
@@ -51,7 +53,9 @@
     "timeWeek": 2237,
     "timeMonth": 1635,
     "timeYear": 1563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-13": 1
+    }
   },
   {
     "name": "201 (Shared - Web) - HTTPS",
@@ -94,9 +98,9 @@
     "url": "$URL_SRV2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv2-external-https",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -106,6 +110,7 @@
     "timeMonth": 255,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2023-04-13": 0,
       "2023-01-15": 2
     }
   },

@@ -80,9 +80,9 @@
     "url": "$URL_500",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "500-platform-https",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 345,
     "timeMonth": 367,
     "timeYear": 396,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-30": 0
+    }
   },
   {
     "name": "srv2 (External) - HTTPS",
@@ -119,9 +121,9 @@
     "url": "$URL_600",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "600-shared-game-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +132,9 @@
     "timeWeek": 249,
     "timeMonth": 240,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-30": 0
+    }
   },
   {
     "name": "602 (Managed - Game) - API",

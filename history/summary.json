@@ -4,10 +4,10 @@
     "url": "https://envesko.com",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.com.ico",
     "slug": "envesko-launchpad-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 285,
@@ -16,6 +16,7 @@
     "timeMonth": 260,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2023-05-20": 1,
       "2023-04-13": 19
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "envesko-cloud-https",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "98.87%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.43%",
-    "uptimeMonth": "95.96%",
-    "uptimeYear": "99.20%",
+    "uptimeWeek": "75.04%",
+    "uptimeMonth": "94.26%",
+    "uptimeYear": "98.87%",
     "time": 379,
     "timeDay": 250,
     "timeWeek": 357,
     "timeMonth": 362,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-05-20": 35,
+      "2023-05-20": 780,
       "2023-05-19": 1440,
       "2023-05-18": 296
     }
@@ -46,10 +47,10 @@
     "url": "https://base.envesko.com",
     "icon": "https://icons.duckduckgo.com/ip3/base.envesko.com.ico",
     "slug": "envesko-base-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1605,
@@ -58,6 +59,7 @@
     "timeMonth": 1645,
     "timeYear": 1605,
     "dailyMinutesDown": {
+      "2023-05-20": 1,
       "2023-04-13": 18
     }
   },
@@ -106,9 +108,9 @@
     "url": "$URL_SRV2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv2-external-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -118,6 +120,7 @@
     "timeMonth": 235,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2023-05-20": 0,
       "2023-04-13": 18,
       "2023-01-15": 2
     }

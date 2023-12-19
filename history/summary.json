@@ -153,9 +153,9 @@
     "url": "$URL_602",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "602-managed-game-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -165,6 +165,7 @@
     "timeMonth": 231,
     "timeYear": 228,
     "dailyMinutesDown": {
+      "2023-12-19": 0,
       "2023-04-23": 135
     }
   },

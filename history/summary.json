@@ -99,12 +99,12 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 379,
     "timeDay": 474,
     "timeWeek": 431,
-    "timeMonth": 381,
+    "timeMonth": 383,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2024-04-24": 30,
@@ -160,9 +160,9 @@
     "url": "$URL_602",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "602-managed-game-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
@@ -172,6 +172,7 @@
     "timeMonth": 213,
     "timeYear": 216,
     "dailyMinutesDown": {
+      "2024-05-24": 0,
       "2024-01-25": 200,
       "2023-12-19": 531
     }

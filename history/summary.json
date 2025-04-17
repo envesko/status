@@ -105,10 +105,10 @@
     "url": "$URL_201",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "201-shared-web-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 253,
@@ -117,6 +117,7 @@
     "timeMonth": 237,
     "timeYear": 236,
     "dailyMinutesDown": {
+      "2025-04-17": 1,
       "2024-11-02": 69,
       "2024-08-23": 22
     }
@@ -126,9 +127,9 @@
     "url": "$URL_500",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "500-platform-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
@@ -138,6 +139,7 @@
     "timeMonth": 369,
     "timeYear": 383,
     "dailyMinutesDown": {
+      "2025-04-17": 0,
       "2025-03-06": 19,
       "2024-11-15": 21,
       "2024-10-25": 989,

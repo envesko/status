@@ -277,13 +277,13 @@
     "url": "$URL_905",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "905-managed-web-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "64.79%",
-    "uptimeWeek": "68.54%",
+    "uptimeDay": "65.78%",
+    "uptimeWeek": "68.53%",
     "uptimeMonth": "92.46%",
     "uptimeYear": "98.93%",
-    "time": 846,
+    "time": 847,
     "timeDay": 206,
     "timeWeek": 2149,
     "timeMonth": 1839,
@@ -307,7 +307,7 @@
       "2024-09-21": 244,
       "2024-09-20": 782,
       "2024-09-19": 399,
-      "2024-09-18": 42
+      "2024-09-18": 22
     }
   }
 ]

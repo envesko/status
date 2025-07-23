@@ -149,9 +149,9 @@
     "url": "$URL_500",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "500-platform-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.17%",
@@ -161,6 +161,7 @@
     "timeMonth": 391,
     "timeYear": 387,
     "dailyMinutesDown": {
+      "2025-07-23": 0,
       "2025-04-24": 165,
       "2025-04-23": 1440,
       "2025-04-22": 1233,
@@ -171,8 +172,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1275,
-      "2024-07-23": 146
+      "2024-10-21": 1275
     }
   },
   {
@@ -209,9 +209,9 @@
     "url": "$URL_600",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "600-shared-game-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.17%",
@@ -221,6 +221,7 @@
     "timeMonth": 224,
     "timeYear": 226,
     "dailyMinutesDown": {
+      "2025-07-23": 0,
       "2025-06-30": 26,
       "2025-04-24": 165,
       "2025-04-23": 1440,
@@ -230,8 +231,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1275,
-      "2024-07-23": 146
+      "2024-10-21": 1275
     }
   },
   {
@@ -239,9 +239,9 @@
     "url": "$URL_602",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "602-managed-game-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.07%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "95.53%",
@@ -251,6 +251,7 @@
     "timeMonth": 216,
     "timeYear": 223,
     "dailyMinutesDown": {
+      "2025-07-23": 0,
       "2025-06-30": 25,
       "2025-04-24": 165,
       "2025-04-23": 1440,

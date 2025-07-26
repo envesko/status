@@ -150,7 +150,7 @@
     "slug": "500-platform-https",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "20.10%",
+    "uptimeDay": "25.53%",
     "uptimeWeek": "60.72%",
     "uptimeMonth": "90.96%",
     "uptimeYear": "97.44%",
@@ -211,7 +211,7 @@
     "slug": "600-shared-game-api",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "20.09%",
+    "uptimeDay": "25.53%",
     "uptimeWeek": "60.72%",
     "uptimeMonth": "90.90%",
     "uptimeYear": "97.45%",
@@ -243,7 +243,7 @@
     "slug": "602-managed-game-api",
     "status": "up",
     "uptime": "97.79%",
-    "uptimeDay": "20.09%",
+    "uptimeDay": "25.53%",
     "uptimeWeek": "60.72%",
     "uptimeMonth": "90.90%",
     "uptimeYear": "94.78%",
@@ -284,17 +284,17 @@
     "slug": "905-managed-web-https",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "52.52%",
-    "uptimeWeek": "64.11%",
-    "uptimeMonth": "88.42%",
-    "uptimeYear": "99.04%",
+    "uptimeDay": "57.72%",
+    "uptimeWeek": "64.95%",
+    "uptimeMonth": "88.35%",
+    "uptimeYear": "99.03%",
     "time": 790,
     "timeDay": 225,
     "timeWeek": 873,
     "timeMonth": 1435,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2025-07-25": 683,
+      "2025-07-25": 668,
       "2025-07-24": 412,
       "2025-07-23": 543,
       "2025-07-22": 511,
@@ -304,7 +304,7 @@
       "2025-07-18": 466,
       "2025-07-17": 505,
       "2025-07-16": 429,
-      "2025-07-15": 65
+      "2025-07-15": 111
     }
   }
 ]

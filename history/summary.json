@@ -287,17 +287,17 @@
     "slug": "905-managed-web-https",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "60.64%",
-    "uptimeWeek": "62.12%",
-    "uptimeMonth": "89.14%",
-    "uptimeYear": "99.09%",
+    "uptimeDay": "66.08%",
+    "uptimeWeek": "62.93%",
+    "uptimeMonth": "88.94%",
+    "uptimeYear": "99.08%",
     "time": 750,
     "timeDay": 207,
     "timeWeek": 217,
     "timeMonth": 1268,
     "timeYear": 911,
     "dailyMinutesDown": {
-      "2025-07-27": 566,
+      "2025-07-27": 554,
       "2025-07-26": 426,
       "2025-07-25": 668,
       "2025-07-24": 412,
@@ -306,7 +306,7 @@
       "2025-07-21": 688,
       "2025-07-20": 290,
       "2025-07-19": 485,
-      "2025-07-18": 175
+      "2025-07-18": 277
     }
   }
 ]

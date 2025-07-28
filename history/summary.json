@@ -6,7 +6,7 @@
     "slug": "envesko-launchpad-https",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "55.17%",
+    "uptimeDay": "62.07%",
     "uptimeWeek": "93.00%",
     "uptimeMonth": "98.29%",
     "uptimeYear": "99.56%",
@@ -68,7 +68,7 @@
     "slug": "envesko-base-https",
     "status": "up",
     "uptime": "97.14%",
-    "uptimeDay": "55.17%",
+    "uptimeDay": "62.07%",
     "uptimeWeek": "93.34%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "92.79%",
@@ -185,7 +185,7 @@
     "slug": "srv2-external-https",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "55.17%",
+    "uptimeDay": "62.07%",
     "uptimeWeek": "93.34%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.57%",
@@ -285,15 +285,15 @@
     "url": "$URL_905",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "905-managed-web-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "72.50%",
-    "uptimeWeek": "63.99%",
-    "uptimeMonth": "89.10%",
-    "uptimeYear": "99.09%",
+    "uptimeDay": "72.48%",
+    "uptimeWeek": "64.45%",
+    "uptimeMonth": "89.16%",
+    "uptimeYear": "99.10%",
     "time": 751,
-    "timeDay": 206,
-    "timeWeek": 217,
+    "timeDay": 208,
+    "timeWeek": 216,
     "timeMonth": 1262,
     "timeYear": 909,
     "dailyMinutesDown": {
@@ -307,7 +307,7 @@
       "2025-07-21": 688,
       "2025-07-20": 290,
       "2025-07-19": 485,
-      "2025-07-18": 175
+      "2025-07-18": 148
     }
   }
 ]

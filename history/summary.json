@@ -285,14 +285,14 @@
     "url": "$URL_905",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "905-managed-web-https",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "64.53%",
-    "uptimeWeek": "62.70%",
-    "uptimeMonth": "89.07%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "65.56%",
+    "uptimeWeek": "63.00%",
+    "uptimeMonth": "89.11%",
     "uptimeYear": "99.09%",
-    "time": 717,
-    "timeDay": 236,
+    "time": 718,
+    "timeDay": 237,
     "timeWeek": 238,
     "timeMonth": 957,
     "timeYear": 824,
@@ -306,8 +306,7 @@
       "2025-07-29": 400,
       "2025-07-28": 565,
       "2025-07-27": 554,
-      "2025-07-26": 426,
-      "2025-07-25": 20
+      "2025-07-26": 426
     }
   }
 ]

@@ -1,7 +1,7 @@
 url: $URL_905
-status: up
-code: 200
+status: down
+code: 415
 responseTime: 274
-lastUpdated: 2025-08-04T23:25:25.672Z
+lastUpdated: 2025-08-05T11:41:52.268Z
 startTime: 2022-12-17T21:55:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>

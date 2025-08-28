@@ -1,7 +1,7 @@
 url: $URL_SRV2
-status: up
-code: 200
-responseTime: 172
-lastUpdated: 2025-08-28T10:56:18.585Z
+status: down
+code: 415
+responseTime: 262
+lastUpdated: 2025-08-28T21:40:51.491Z
 startTime: 2022-12-17T04:17:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>

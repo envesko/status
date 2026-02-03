@@ -568,18 +568,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "905-managed-web-https",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "98.96%",
+    "uptime": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "98.94%",
     "time": 749,
     "timeDay": 7019,
     "timeWeek": 997,
     "timeMonth": 681,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2026-02-02": 5,
       "2026-01-28": 19,
       "2026-01-26": 78,
       "2026-01-25": 38,
@@ -646,7 +645,9 @@
       "2025-09-30": 415,
       "2025-09-28": 20,
       "2025-09-16": 34,
-      "2025-09-09": 17
+      "2025-09-09": 17,
+      "2025-09-04": 80,
+      "2025-09-03": 46
     }
   }
 ]

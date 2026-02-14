@@ -6,9 +6,9 @@
     "slug": "envesko-launchpad-https",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "97.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "97.19%",
     "uptimeYear": "98.44%",
     "time": 295,
     "timeDay": 230,
@@ -16,7 +16,6 @@
     "timeMonth": 279,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2026-02-13": 14,
       "2026-02-10": 246,
       "2026-02-09": 76,
       "2026-02-08": 27,
@@ -85,7 +84,8 @@
       "2025-08-31": 30,
       "2025-08-30": 28,
       "2025-08-27": 34,
-      "2025-08-25": 20
+      "2025-08-25": 20,
+      "2025-08-22": 15
     }
   },
   {
@@ -183,9 +183,9 @@
     "slug": "envesko-base-https",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "97.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "97.24%",
     "uptimeYear": "98.43%",
     "time": 1570,
     "timeDay": 733,
@@ -193,7 +193,6 @@
     "timeMonth": 1276,
     "timeYear": 1572,
     "dailyMinutesDown": {
-      "2026-02-13": 14,
       "2026-02-10": 246,
       "2026-02-09": 76,
       "2026-02-08": 27,
@@ -263,7 +262,7 @@
       "2025-09-09": 17,
       "2025-08-31": 30,
       "2025-08-30": 28,
-      "2025-08-27": 18
+      "2025-08-27": 33
     }
   },
   {
@@ -408,18 +407,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv2-external-https",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "98.44%",
+    "uptime": "99.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "97.24%",
+    "uptimeYear": "98.43%",
     "time": 243,
     "timeDay": 200,
     "timeWeek": 253,
     "timeMonth": 242,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2026-02-13": 14,
       "2026-02-10": 246,
       "2026-02-09": 76,
       "2026-02-08": 27,
@@ -489,7 +487,8 @@
       "2025-08-30": 27,
       "2025-08-27": 17,
       "2025-08-25": 19,
-      "2025-08-22": 50
+      "2025-08-22": 50,
+      "2025-08-21": 34
     }
   },
   {

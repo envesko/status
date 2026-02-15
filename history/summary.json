@@ -4,15 +4,15 @@
     "url": "https://envesko.com",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.com.ico",
     "slug": "envesko-launchpad-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "77.53%",
-    "uptimeWeek": "93.34%",
+    "uptimeDay": "77.52%",
+    "uptimeWeek": "93.33%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "98.40%",
     "time": 294,
-    "timeDay": 230,
-    "timeWeek": 259,
+    "timeDay": 236,
+    "timeWeek": 261,
     "timeMonth": 268,
     "timeYear": 294,
     "dailyMinutesDown": {
@@ -81,8 +81,7 @@
       "2025-10-15": 15,
       "2025-10-12": 23,
       "2025-10-05": 21,
-      "2025-09-28": 20,
-      "2025-09-09": 17
+      "2025-09-28": 20
     }
   },
   {
@@ -90,17 +89,17 @@
     "url": "https://envesko.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "envesko-cloud-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "71.72%",
-    "uptimeWeek": "92.51%",
+    "uptimeDay": "75.93%",
+    "uptimeWeek": "92.50%",
     "uptimeMonth": "96.44%",
     "uptimeYear": "99.21%",
     "time": 357,
     "timeDay": 309,
-    "timeWeek": 334,
-    "timeMonth": 334,
-    "timeYear": 355,
+    "timeWeek": 332,
+    "timeMonth": 333,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2026-02-15": 197,
       "2026-02-14": 210,
@@ -163,8 +162,7 @@
       "2025-11-05": 34,
       "2025-11-01": 35,
       "2025-10-24": 30,
-      "2025-10-15": 15,
-      "2025-10-05": 21
+      "2025-10-15": 15
     }
   },
   {
@@ -172,17 +170,17 @@
     "url": "https://base.envesko.com",
     "icon": "https://icons.duckduckgo.com/ip3/base.envesko.com.ico",
     "slug": "envesko-base-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "73.27%",
-    "uptimeWeek": "92.73%",
+    "uptimeDay": "77.48%",
+    "uptimeWeek": "92.72%",
     "uptimeMonth": "96.49%",
-    "uptimeYear": "98.38%",
-    "time": 1565,
-    "timeDay": 1016,
-    "timeWeek": 1115,
-    "timeMonth": 1185,
-    "timeYear": 1560,
+    "uptimeYear": "98.39%",
+    "time": 1563,
+    "timeDay": 1006,
+    "timeWeek": 1086,
+    "timeMonth": 1176,
+    "timeYear": 1559,
     "dailyMinutesDown": {
       "2026-02-15": 197,
       "2026-02-14": 187,
@@ -248,8 +246,7 @@
       "2025-11-05": 34,
       "2025-11-01": 35,
       "2025-10-24": 30,
-      "2025-10-15": 15,
-      "2025-10-12": 22
+      "2025-10-15": 15
     }
   },
   {
@@ -257,15 +254,15 @@
     "url": "$URL_201",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "201-shared-web-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "71.68%",
+    "uptimeDay": "75.89%",
     "uptimeWeek": "92.50%",
     "uptimeMonth": "96.43%",
     "uptimeYear": "99.21%",
     "time": 251,
-    "timeDay": 262,
-    "timeWeek": 266,
+    "timeDay": 266,
+    "timeWeek": 267,
     "timeMonth": 257,
     "timeYear": 254,
     "dailyMinutesDown": {
@@ -330,8 +327,7 @@
       "2025-11-05": 34,
       "2025-11-01": 35,
       "2025-10-24": 30,
-      "2025-10-15": 15,
-      "2025-10-05": 21
+      "2025-10-15": 15
     }
   },
   {
@@ -372,14 +368,14 @@
     "url": "$URL_SRV2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv2-external-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "73.25%",
+    "uptimeDay": "77.46%",
     "uptimeWeek": "92.72%",
-    "uptimeMonth": "96.49%",
-    "uptimeYear": "98.39%",
-    "time": 242,
-    "timeDay": 240,
+    "uptimeMonth": "96.48%",
+    "uptimeYear": "98.40%",
+    "time": 243,
+    "timeDay": 227,
     "timeWeek": 247,
     "timeMonth": 239,
     "timeYear": 246,
@@ -449,8 +445,7 @@
       "2025-10-15": 15,
       "2025-10-12": 22,
       "2025-10-05": 21,
-      "2025-09-28": 20,
-      "2025-09-09": 17
+      "2025-09-28": 20
     }
   },
   {
@@ -522,19 +517,19 @@
     "url": "$URL_905",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "905-managed-web-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "71.67%",
-    "uptimeWeek": "92.50%",
+    "uptimeDay": "75.87%",
+    "uptimeWeek": "92.49%",
     "uptimeMonth": "96.23%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 636,
-    "timeDay": 251,
-    "timeWeek": 249,
+    "timeDay": 254,
+    "timeWeek": 251,
     "timeMonth": 305,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2026-02-15": 197,
+      "2026-02-15": 198,
       "2026-02-14": 211,
       "2026-02-10": 246,
       "2026-02-09": 76,
@@ -588,8 +583,7 @@
       "2025-11-30": 75,
       "2025-11-25": 52,
       "2025-11-24": 52,
-      "2025-11-23": 97,
-      "2025-11-21": 41
+      "2025-11-23": 97
     }
   }
 ]
